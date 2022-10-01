@@ -1,16 +1,3 @@
-# bam README
+# Bam - VS Code Dark Theme
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This is a fork of the Default Material Dark Theme that I use [Link](https://github.com/yuchiu/Default-Material-Dark-Theme). Its based off the Casio GSshock Bamford Watch. I tried to buy it, but it sold out in about 10 seconds, so I decided to make this theme instead 😁
