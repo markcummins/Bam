@@ -1,8 +1,13 @@
 {
-  "name": "bam",
-  "displayName": "bam",
-  "description": "bam",
+  "name": "bam-dark-theme",
+  "displayName": "Bam - Dark Theme",
   "version": "0.0.1",
+  "description": "VS Code Theme, Black and Powder Blue Editor Style & Default Dark + token colors",
+  "publisher": "mark-cummins",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markcummins/Bam.git"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
